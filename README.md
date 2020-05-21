@@ -25,4 +25,4 @@ _オプションの説明_
 
 - - -
 ホームページの作り方  
-<http://rlated.net/>
+<https://rlated.net/>
